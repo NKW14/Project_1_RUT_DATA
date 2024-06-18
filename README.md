@@ -2,6 +2,7 @@
 # New Jersey Housing Analysis: A Post-Pandemic look at county level housing growth
 ### By: Noah Welgoss, Kim Crespo, Brian Loutzenhiser, Praise Satyagrahi <br> 
 --- 
+#### Power Point Link: https://docs.google.com/presentation/d/10GezbcBon_TpNHNC76PDLAP2HME7JGsyHu7geffbMRs/edit?usp=sharing
 #### Data Center: Redfin Real Estate News. (2023, December 6)<br>https://www.redfin.com/news/data-center/ 
 ---
 
